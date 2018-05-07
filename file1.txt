@@ -5,3 +5,4 @@ change on master
 change1 from ReleaseA
 change1 form ReleaseAFeature1
 change2 from ReleaseAFeature1
+change3 from ReleaseAFeature1
