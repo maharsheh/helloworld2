@@ -4,3 +4,6 @@ change from VS 2015 at 4:59 PM on branch1
 change on master
 change1 from ReleaseA
 change2 from ReleaseA
+change1 form ReleaseAFeature1
+change2 from ReleaseAFeature1
+change3 from ReleaseAFeature1
