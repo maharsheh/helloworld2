@@ -2,3 +2,5 @@ new file created
 changed at 3:32 PM
 changed from branch1 at 4:00 PM
 changed again
+
+changed from releaseB
